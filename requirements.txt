@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+
+# Notebook
+jupyter
+notebook
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Database
+sqlite-utils
+
+# Optional scraping (SAFE / light use)
+requests
+beautifulsoup4
+lxml
+
+# Deployment
+streamlit
